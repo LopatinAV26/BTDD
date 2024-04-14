@@ -8,9 +8,6 @@
 #include "Player.h"
 //#include <boost/geometry.hpp>
 
-/**
- * @todo write docs
- */
 class World : public sf::Drawable  {
 public:
     World(const World&) = delete;
